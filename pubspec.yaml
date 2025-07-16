@@ -1,7 +1,6 @@
 name: mypa_app
-description: A simple personal assistant app.
-publish_to: "none"
-
+description: A smart personal assistant app.
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
@@ -10,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
